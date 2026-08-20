@@ -38,8 +38,6 @@ A lightweight, single-page React app for building and tracking your travel packi
 
 > **Note:** `index.js` imports `App` from `./components/App`. If your `App.js` lives directly in `src/`, either move it into a `src/components/` folder or update the import path in `index.js` to `./App` to match your folder layout.
 
-## 🚀 Getting Started
-
 
 ## 🎮 Usage
 
